@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **java & kotlin & node.js**
 
-- 🤝 I’m looking for help with **小程序点点趣**
-
 - 💬 Ask me about **react & Flutter & RN & TS & vue**
 
 - 📫 How to reach me **2534762541@qq.com**
